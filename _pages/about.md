@@ -22,4 +22,18 @@ I’m passionate about computer science and programming. I’m also a Recognized
 
 This is my personal website where I’ll be publishing posts about information security, Android software reverse engineering and more.
 
-If you need to contact me, feel free to send an email to andrei.conache[at]protonmail.com.
+If you need to contact me, feel free to send an email to *andrei.conache[at]protonmail.com*.
+
+###### **Hall of Fame**
+
+- [CERT-EU](https://cert.europa.eu/hall-of-fame)
+- [Philips](https://www.philips.com/a-w/security/coordinated-vulnerability-disclosure/hall-of-honors.html#slide_#)
+- [OLX](https://security.olx.com/security-hall-of-fame.html)
+- [TIM Italia](https://www.telecomitalia.com/tit/it/footer/responsible-disclosure.html)
+- [Jumpshare](https://jumpshare.com/security)
+
+
+###### **CVEs**
+
+- [CVE-2019-9184](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9184)
+- [CVE-2019-8348](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-8348)
